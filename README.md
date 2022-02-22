@@ -16,6 +16,6 @@
  
 <div> 
   <a href="https://instagram.com/_luanamariag/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/luanambrito" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://app.rocketseat.com.br/me/luana-gomes" target="_blank"><img src="https://img.shields.io/badge/Rocketseat-8257e5?style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-maria-gomes-brito-9020791b1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
