@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Luana Brito 
+## Oiii! 
 
  <div>
   <a href="https://github.com/luana-brito">
